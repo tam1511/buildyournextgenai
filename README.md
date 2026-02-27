@@ -1,1 +1,2 @@
-# buildyournextgenai
+# Build Your Next GenAI Series
+
