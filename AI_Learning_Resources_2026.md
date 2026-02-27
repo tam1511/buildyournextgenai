@@ -249,7 +249,6 @@ Mức 4 — Credit Card Fraud Detection        production mindset, cost-sensitiv
 |----------|------|---------|
 | [Made With ML (Goku Mohandas)](https://madewithml.com/) | Web | Tốt nhất cho MLOps end-to-end. Miễn phí.|
 | [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | Course | Từ training đến deployment, rất thực tế |
-| [MLOps Zoomcamp (DataTalks.Club)](https://github.com/DataTalks-Club/mlops-zoomcamp) | Course | Miễn phí, hands-on với MLflow, Prefect, deployment |
 | [CS329S — ML Systems Design (Stanford)](https://stanford-cs329s.github.io/) | Course | Deep Dive — Slides và materials miễn phí |
 
 ---
