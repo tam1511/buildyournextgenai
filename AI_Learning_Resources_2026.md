@@ -316,7 +316,6 @@ Mức 4 — Credit Card Fraud Detection        production mindset, cost-sensitiv
 | [Hugging Face Discord](https://discord.com/invite/hugging-face-879548962464493619) | Community lớn nhất về open-source AI |
 | [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) | Thảo luận research và industry news |
 | [Kaggle Discussion](https://www.kaggle.com/discussions) | Học từ solution của người khác |
-| [LangChain Discord](https://discord.com/invite/langchain-1076006462262077491) | Support và chia sẻ projects |
 
 ---
 
