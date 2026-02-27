@@ -186,7 +186,6 @@ Mức 4 — Credit Card Fraud Detection        production mindset, cost-sensitiv
 | [OpenAI Cookbook](https://cookbook.openai.com/) | Web | Ví dụ thực tế: RAG patterns, evaluations, production |
 | [LangChain Documentation](https://python.langchain.com/docs/introduction/) | Docs | Framework phổ biến nhất để build LLM apps |
 | [LlamaIndex Documentation](https://docs.llamaindex.ai/en/stable/) | Docs | Mạnh hơn LangChain cho RAG use cases |
-| [Chip Huyen — LLM Evaluation](https://huyenchip.com/2024/01/16/llm-evaluation.html) | Blog | Bài viết đầy đủ nhất về cách đánh giá LLM |
 
 ---
 
